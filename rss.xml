@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[somedrawingscoloredwiththePrismaApp]]></title>
         <description><![CDATA[somedrawingscoloredwiththePrismaApp]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/somedrawingsidid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:34:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 17:30:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/somedrawingsidid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cd015f1c-bffb-4849-a15b-1132791bc723.jpg">]]></description>
+            <link>https://thegrid.ai/somedrawingsidid/e2f22533-627f-42d6-96af-b004ef2083a8/index.html</link>
+            <guid isPermaLink="false">e2f22533-627f-42d6-96af-b004ef2083a8</guid>
+            <pubDate>Wed, 17 Aug 2016 17:30:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7e1226d-5e7f-4f7c-b772-1f5ae76c6fea.jpg">]]></description>
-            <link>undefinedreally-like-how-the-prisma-app-colors-my-drawings/index.html</link>
+            <link>https://thegrid.ai/somedrawingsidid/really-like-how-the-prisma-app-colors-my-drawings/index.html</link>
             <guid isPermaLink="false">157d4464-bc89-405b-8b6e-12ce9db9ac54</guid>
             <pubDate>Wed, 17 Aug 2016 16:34:22 GMT</pubDate>
         </item>
